@@ -20,4 +20,4 @@ for my team. On my own time, I model card-game economies and build games in Unit
 ## Find me
 - Portfolio: [coming soon]
 - LinkedIn: [Click here for my profile!](https://www.linkedin.com/in/antonio-loffredi-02bb55196/)
-- Email: thebluewombat46+github@gmail.com
+- Email: antonio_loffredi@yahoo.com
