@@ -18,6 +18,6 @@ for my team. On my own time, I model card-game economies and build games in Unit
   and separate resource and spell decks
 
 ## Find me
-- Portfolio: [coming soon]
+- Portfolio: [Click here for my portfolio!](https://thebluewombat46.github.io/)
 - LinkedIn: [Click here for my profile!](https://www.linkedin.com/in/antonio-loffredi-02bb55196/)
 - Email: TheBlueWombat46@gmail.com
